@@ -1,0 +1,17 @@
+{
+  "name": "test-frontend-meli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-front": "cd frontend && npm i",
+    "start-front": "cd frontend && node run start",
+    "install-back": "cd backend && npm i",
+    "start-back": "cd backend && node run start",
+    "install": "npm run install-front && install-back",
+    "start": "npm run start-front && start-back"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
