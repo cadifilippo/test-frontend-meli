@@ -19,7 +19,7 @@ Se puede instalar el proyecto desde cada una de las sub carpetas:
     - frontend
     - backend
 
-con el comando `npm install`, o utilizar el mismo comando desde la carpeta raíz del proyecto.
+con el comando `npm run install`, o utilizar el mismo comando desde la carpeta raíz del proyecto.
 
 ## Ejecución
 
@@ -36,7 +36,7 @@ Para ejecutar el proyecto, de la misma forma, se puede hacer desde el directorio
 o
 
 ```
-  npm start
+  npm run start
 ```
 
 ## Pedido
