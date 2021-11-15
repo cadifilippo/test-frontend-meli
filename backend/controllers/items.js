@@ -23,8 +23,8 @@ const getItem = async (req = request, res = response) => {
 
     const result = {
       author: {
-        name: 'Mercado',
-        lastname: 'Libre',
+        name: 'Carlos Alfredo',
+        lastname: 'Difilippo Paletti',
       },
       item: {
         id,
@@ -83,8 +83,8 @@ const getItemsQuery = async (req = request, res = response) => {
 
     const result = {
       author: {
-        name: 'Mercado',
-        lastname: 'Libre',
+        name: 'Carlos Alfredo',
+        lastname: 'Difilippo Paletti',
       },
       categories: categories.values[0],
       items,
