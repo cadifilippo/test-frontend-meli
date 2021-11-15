@@ -10,6 +10,10 @@ Para ejecutar el Proyecto debe tener instalado NodeJS (v14.18.1).
 
 ## Instalación
 
+Clonamos el proyecto: `git clone https://github.com/cadifilippo/test-frontend-meli.git`
+
+Ingresamos a la carpeta: `cd test-frontend-meli`
+
 Se puede instalar el proyecto desde cada una de las sub carpetas:
 
     - frontend
